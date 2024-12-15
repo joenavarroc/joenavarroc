@@ -7,68 +7,18 @@
   </br>
    </br>
    </br>
-<!-- STACK -->
-<div  width="100">
-  <h1>Stack</h1>
-<!-- Languages -->
+   </br>
+🛠 &nbsp;Tech Stack
+ </br>
+ </br>
+  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
-  <h3>Languages</h3>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-    width="60px"
-    alt="Java">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    width="60px"
-    alt="Javascript">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
-    width="60px"
-    alt="HTML5">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
-    width="60px"
-    alt="css3">
-    &nbsp;&nbsp;&nbsp;&nbsp;
- <!-- Frameworks -->
-  </br>
-  <h3>Frameworks</h3>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
-    width="60px"
-    alt="Spring (Spring-boot)">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-<img
-    src="https://logodix.com/logo/699172.png"
-    width="60px"
-    alt="Maven">
-    &nbsp;&nbsp;&nbsp;
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
-    width="60px"
-    alt="Bootstrap">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  </br>
-    <!-- Storages -->
-  </br>
-  <h3>Storages</h3>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-    width="60px"
-    alt="PostgreSQL">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-<p>
-  <h3 align="right">Stats:</h3>
-<p>
-    <a align="rightt">
-      <p><img align="right" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="josuerv99" /></p></a>
-    
-  </p>
-</p>
-</div>
-
-    
