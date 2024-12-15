@@ -5,7 +5,7 @@
 <p align="center">
 <ul style="list-style: none;">
 <li>💻 I am a Full Stack Developer </li>
-<li>🌱 I’m currently learning Backend Development, REST APIs, AXIOS, MICRO SERVICEs, DATABASE</li>
+<li>🌱 I’m currently learning Backend Development, REST APIs, AXIOS, MICRO SERVICES, DATABASE</li>
 <li>🌟 Main languages: Java</li>
 <li>💡 I’m constantly learning backend techonolgies and keeping improving my skills.</li>
 <li>💼 I'm also writing some intersting projects, you can have a look on my pinned repositories.</li>
