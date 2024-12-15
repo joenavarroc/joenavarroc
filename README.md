@@ -1,5 +1,7 @@
-![MasterHead](https://img.freepik.com/fotos-premium/fondo-teclado-computadora-led-rgb-ingles_199726-12599.jpg?w=900)
-<h1 align="center">Hi , I'm Joseph Navarro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<p align="center">Hi , I'm Joseph Navarro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
@@ -16,6 +18,8 @@
 </ul>
 </br>
  </br>
+ <!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 🛠 &nbsp;Tech Stack
  </br>
  </br>
