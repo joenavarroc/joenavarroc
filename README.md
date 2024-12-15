@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/foto-gratis/fotografia-lateral-editor-codigo-que-utiliza-react-js_181624-61842.jpg?t=st=1734286447~exp=1734290047~hmac=65a965232d50180c26b6c45bfa410661a5705543fac09f94f828021cfdf35f7b&w=900)
+![MasterHead](https://img.freepik.com/fotos-premium/fondo-teclado-computadora-led-rgb-ingles_199726-12599.jpg?w=900)
 <h1 align="center">Hi , I'm Joseph Navarro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
