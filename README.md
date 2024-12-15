@@ -3,7 +3,18 @@
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 <p align="center">
- 
+<ul style="list-style: none;">
+<li>💻 I am a Full Stack Developer </li>
+<li>🌱 I’m currently learning Backend Development, REST APIs, AXIOS, MICRO SERVICEs, DATABASE</li>
+<li>🌟 Main languages: Java</li>
+<li>💡 I’m constantly learning backend techonolgies and keeping improving my skills.</li>
+<li>💼 I'm also writing some intersting projects, you can have a look on my pinned repositories.</li>
+<li>📝 I have a strong interest in Software Engineering and Design</li>
+<li>🚩 I’m looking to worckhomeoffice, on any project that aligns with my interests and expertise.</li>
+<li>👀 I’m curious about development Blockchain and Crypto Currency</li>
+</ul>
+</br>
+ </br>
 🛠 &nbsp;Tech Stack
  </br>
  </br>
@@ -18,10 +29,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
-</br>
-</br>
 🤝 Connect with me
-</br>
 </br>
 <p align="left">
 	<a href="mailto:jos14col@hotmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
