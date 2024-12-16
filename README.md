@@ -38,4 +38,18 @@
 </br>
 <p align="left">
 	<a href="mailto:jos14col@hotmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/"mylinkdin"/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></p>
+	<a href="https://www.linkedin.com/in/"mylinkdin"/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<p >
+	
+ <!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
+  <!--- stats (start) -->
+
+### Here's my github README stats:
+
+![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=joenavarroc&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joenavarroc&theme=radical)](https://git.io/streak-stats) 
+
+</p>        
